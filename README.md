@@ -23,12 +23,7 @@ classDiagram
         -String description
     }
     
-    class Log {
-        -String icon
-        -String description
-    }
 
     Product "1" --> "1" Supplier
     Product "1" --> "*" Feature
-    Product "1" --> "*" Log
 ```
