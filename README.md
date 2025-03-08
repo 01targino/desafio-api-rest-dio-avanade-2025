@@ -1,6 +1,6 @@
 # Desafio API Rest do programa DIO Avanade 2025
 
-Para o desafio, foi pensado uma API de controle de estoque
+Para o desafio, foi pensado uma API de controle de estoque de uma loja.
 
 ## Diagrama de classes
 ```mermaid 
