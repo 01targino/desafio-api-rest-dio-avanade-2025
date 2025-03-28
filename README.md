@@ -1,6 +1,6 @@
 # Desafio API Rest do programa DIO Avanade 2025
 
-Para o desafio, foi pensado uma API de controle de estoque de uma loja.
+Este projeto faz parte do desafio da DIO Avanade 2025 e, basicamente, consiste no desenvolvimento de uma API REST para o gerenciamento de estoque de uma loja. 
 
 ## Diagrama de classes
 ```mermaid 
@@ -27,3 +27,4 @@ classDiagram
     Product "1" --> "1" Supplier
     Product "1" --> "*" Feature
 ```
+
